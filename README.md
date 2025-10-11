@@ -5,7 +5,7 @@ Within this project, I have used SQL to explore data. The Excel dataset contains
 
 I have also prepared a Tableau [dashboard](https://public.tableau.com/app/profile/tasnia.begum/viz/COVIDProjectDashboard_17601155696200/Dashboard1) to visualise different cases such as the total number of deaths per continent. 
 
-**Skills**: Data Loading, Data Exploration, Joins, CTE's, Temp Tables, Creating Views, Data Modelling
+**Skills**: Data Loading, Data Exploration, Joins, Aggregate Functions, CTE's, Temp Tables, Creating Views, Data Modelling
 
 **Tools Used**: Excel, SQL Server, Tableau 
 
