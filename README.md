@@ -22,3 +22,21 @@ In this project, I have used SQL to clean data. The Excel dataset contains recor
 
 **Code**: [Nashville Housing Project](https://github.com/tasniabegum/PortfolioProjects/blob/main/Nashville%20Housing%20Project.sql)
 
+
+## Data Professional Survey Breadown Project 
+This survey has been conducted by [Alex The Analyst](https://github.com/AlexTheAnalyst). The raw Excel data contatained information collected from a survey completed by data professionals in 2022, such as their age, gender, their current role, location etc. The data required cleaning and preparation in Power BI before visualisations could be created. Therefter, I created a dashboard to collate the visualisations. 
+
+**Skills**: Data Cleaning, Data Analysis, BI Dashboard
+
+**Tools Used**: Power BI
+
+**Visualisation**: [Data Professional Survey Project (BI Report)](https://github.com/tasniabegum/PortfolioProjects/blob/main/Data%20Professional%20Survery%20Project.pbix) 
+or
+[Data Professional Survey Project (PDF)](https://github.com/tasniabegum/PortfolioProjects/blob/main/Data%20Professional%20Survery%20Project.pdf)
+
+
+## Diabetes Project 
+
+(upload in progress)
+
+
