@@ -58,5 +58,25 @@ In this project, I have used a dataset from [Kaggle](https://www.kaggle.com/data
 * A woman's total number of pregnancies does not seem to have an extensive effect on her glucose level, but there is an increased diabetic percentage rate for women with seven or more pregnancies. 
  
 
+## Superstore Sales Project
+In this project, I have used a dataset from [Kaggle](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final), containing information related to sales, profits, categories and customer segments of a Superstore Giant. I analysed the dataset using SQL to uncover insights to identify profitable vs unprofitable categories, understand regional performance and advise on decisions on where to invest or cut back. 
 
+I established, when cleaning the data using SQL Server, there was no missing numbers. However, I still created a cleaned view to protect the original data and have analysis ready data. I aggregated sales and profit metrics and created analytical views. I then created .csv files of the view to connect to Tableau to build a dashboard to clearly show which categories and regions drive profitability and which ones are causing a loss. 
+
+**Skills:** Data Cleaning, Data Exploration, Aggregate Functions, Creating Views, Data Modelling
+
+**Tools Used:** SQL Server, Tableau 
+
+**Code:** [Diabetes Project](https://github.com/tasniabegum/PortfolioProjects/blob/main/Diabetes%20Project.sql) 
+
+**Visualisation:** [Superstore Sales Project ](https://public.tableau.com/app/profile/tasnia.begum/viz/SuperstoreSalesDashboard_17674458366310/Dashboard1) 
+
+
+**Key Insights:**
+* There is a profit margin of 12% which shows a strong, positive overall business performance. 
+* Technology is the most profitable category at 145k with Office Supplies following closely at 122k. 
+* The third most profitable category is Furniture at a very low rate of profit at 18k, suggesting improvements on pricing or marketing should be made.
+* The West region contributes the most profit, whereas the Central region contributes the least profit which indicates that the pricing strategy on the Central region should be investigated. 
+* Sub-categories of Supplies, Bookcases and Tables are underperforming and generating significant losses. 
+* This highlights that the company should focus on the Furniture category to improve profitability.
 
