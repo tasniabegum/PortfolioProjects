@@ -67,9 +67,9 @@ I established, when cleaning the data using SQL Server, there was no missing num
 
 **Tools Used:** SQL Server, Tableau 
 
-**Code:** [Diabetes Project](https://github.com/tasniabegum/PortfolioProjects/blob/main/Diabetes%20Project.sql) 
+**Code:** [Superstore Project](https://github.com/tasniabegum/PortfolioProjects/blob/main/Superstore%20Project.sql) 
 
-**Visualisation:** [Superstore Sales Project ](https://public.tableau.com/app/profile/tasnia.begum/viz/SuperstoreSalesDashboard_17674458366310/Dashboard1) 
+**Visualisation:** [Superstore Sales Project Dashboard](https://public.tableau.com/app/profile/tasnia.begum/viz/SuperstoreSalesDashboard_17674458366310/Dashboard1) 
 
 
 **Key Insights:**
